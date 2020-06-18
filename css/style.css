@@ -1,3 +1,4 @@
+
 .col-xs-12 {
     height: 100px;
     background-color: #32CD32;
@@ -8,7 +9,12 @@
     background-color: #FFFFF0;
 }
 
-.sfondo-foot {
+.top {
+    background-color: #32CD32;
+    height: 150px;
+}
+
+.foot {
     background-color: #90EE90;
     height: 150px;
 }
