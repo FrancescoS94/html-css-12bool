@@ -18,10 +18,6 @@
     height: 100px;
 }
 
-.row .row [class^="col-"] {
-    background-color: yellow;
-}
-
 [class^="col-"] {
     height: 50px;
     background-color: aqua;
